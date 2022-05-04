@@ -1,5 +1,5 @@
 # grid-art-generator
-Uses [Processing 3](URL "https://processing.org/") to create colourful generative grids from user-specified parameters.
+Uses Java in [Processing 3](URL "https://processing.org/") to create colourful generative grids from user-specified parameters
 
 ![SweetShop](https://user-images.githubusercontent.com/85010533/165533827-0c700248-e0e5-424a-ba03-0e7e3f15452a.PNG)
  
